@@ -16,7 +16,7 @@ public:
         if (index >= 0 && index < arr.size()) {
             arr[index] = value;
         } else {
-            cout << "Index out of range!" << endl;
+            cout << "Index out of range" << endl;
         }
     }
 
@@ -24,7 +24,7 @@ public:
         if (index >= 0 && index < arr.size()) {
             return arr[index];
         } else {
-            cout << "Index out of range!" << endl;
+            cout << "Index out of range" << endl;
             return -1; // Return -1 as an error indicator
         }
     }
@@ -45,8 +45,8 @@ public:
                 temp[k++] = arr[i++];
             } else {
                 temp[k++] = arr[j++];
-                cout << "\a"; // Play beep sound for each swap
-                display(); // Display array after each swap
+                cout << "\a";
+                display();
             }
         }
         while (i <= mid) {
