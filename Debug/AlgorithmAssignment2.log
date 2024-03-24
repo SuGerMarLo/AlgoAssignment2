@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Karlo\Videos\AlgorithmAssignment2\Source.cpp(16,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Karlo\Videos\AlgorithmAssignment2\Source.cpp(25,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Karlo\Videos\AlgorithmAssignment2\Source.cpp(36,27): warning C4018: '<': signed/unsigned mismatch
+  AlgorithmAssignment2.vcxproj -> C:\Users\Karlo\Videos\AlgorithmAssignment2\Debug\AlgorithmAssignment2.exe
